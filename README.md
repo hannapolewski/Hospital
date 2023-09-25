@@ -1,6 +1,3 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
@@ -18,11 +15,6 @@ An AI assistant for nurses solves several problems, including easing the workloa
 
 ## How is it used?
 An AI assistant for nurses could be used through a mobile application or a web platform. Nurses would be able to log in and use the assistant to access patient information, receive medication reminders, and receive guidance on care protocols. The assistant can also be used to monitor patient data and provide alerts for any deviations. It would be a valuable resource for nurses to streamline their work and enhance patient care.
-
-
-main()
-```
-
 
 ## Data sources and AI methods
 
