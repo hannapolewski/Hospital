@@ -8,72 +8,31 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+An AI idea for nurses could be to develop a virtual assistant than can assist with patient monitoring, medication management and provide guidence on care protocols. It could help alleviate workload and enhance patient safety. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+An AI assistant for nurses solves several problems, including easing the workload by automating tasks like patient monitoring and medication management. It can also enhance patient safety by providing reliable guidance on care protocols and alerts for any deviations. Overall, it would streamline workflow and improve the quality of care
 
 
 ## How is it used?
+An AI assistant for nurses could be used through a mobile application or a web platform. Nurses would be able to log in and use the assistant to access patient information, receive medication reminders, and receive guidance on care protocols. The assistant can also be used to monitor patient data and provide alerts for any deviations. It would be a valuable resource for nurses to streamline their work and enhance patient care.
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
 
 main()
 ```
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Medical literature, patient records, or publicly available health datasets. As for AI methods, natural language processing (NLP) techniques like text classification, sentiment analysis, and named entity recognition could be useful. Machine learning algorithms such as decision trees, support vector machines, or deep learning models like recurrent neural networks (RNNs) could also be employed. The choice of data sources and AI methods will depend on the goals and requirements of your project.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Some challenges of implementing an AI assistant for nurses include ensuring data privacy and security, integrating the assistant with existing healthcare systems, and maintaining accuracy and reliability of the AI algorithms. Additionally, there may be challenges in training the AI to understand and respond appropriately to complex medical situations. However, with proper development and testing, these challenges can be overcome to create a valuable tool for nurses
 
 ## What next?
+Developing skills and assistance in areas such as natural language processing, machine learning, and data analysis. This could involve creating an AI assistant that can understand and respond to user queries, provide personalized recommendations, or assist with specific tasks in a particular domain, such as healthcare or customer service.
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
