@@ -1,5 +1,5 @@
 
-# Project Title
+# Hospitalized Ai
 
 Final project for the Building AI course
 
